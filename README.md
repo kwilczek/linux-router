@@ -24,4 +24,4 @@ and has some basic knowledge on Linux :penguin: operating system. Debian is the 
 * For this, it would be nice to have a working DDNS client.
 * You may want to set up a secure backup solution.
 * Do you have an old external drive? It would be great for a NAS and storing those
-  secure backups (remmber that RAID is not a backup and to have a backup of your backup).
+  secure backups (please remember that RAID is not a backup and to have a backup of your backup).
