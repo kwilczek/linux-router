@@ -1,17 +1,17 @@
 # How to make a router out of a Linux machine
 
-What sort of a machine would be adequate? Basically, any machine that has at least two wired network interfaces.
+*What sort of a machine would be adequate?* Basically, any machine that has at least two wired network interfaces.
 My home router is an old Thinkpad X230 with a single built-in Ethernet port; the second
 one is a USB Ethernet adapter.
 
-Is it expensive to have such a router powered on all the time? It might be, but it shouldn't
+*Is it expensive to have such a router powered on all the time?* It might be, but it shouldn't
 be. I tweaked my X230 to use about 10 W when idle (more about that later). If you are using
 an RPi, it should be much less, depending on the version of the board.
 
-Why do I need a second router? Routing will be only one of many things you will be able to
+*Why do I need a second router?* Routing will be only one of many things you will be able to
 do with such a contraption. One of the most important things is that you will learn
-while doing all those things mentioned below! I assume that a person reading this likes to tinker
-and has some basic knowledge on Linux operating system. Debian is the system of my choice.
+while doing all those things mentioned below! :open_book: I assume that a person reading this likes to tinker
+and has some basic knowledge on Linux :penguin: operating system. Debian is the system of my choice.
 
 * ISP's routers have limited set of funcionalities.
 * Some of those functions often do not work properly (like a DDNS client).
